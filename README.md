@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JonHSchool
+- Hi, I’m @JonHSchool
 This is a github for my school stuff.
 - If you need any decent code, you're in the wrong place.
 <!---
